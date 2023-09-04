@@ -1,0 +1,2 @@
+# Travel-and-tourism-management-system
+The "Travel and Tourism Management System" is a desktop application designed to streamline and manage various aspects of travel and tourism operations. Its primary purpose is to provide a user-friendly interface for both travelers and travel agents to facilitate the booking of tickets and other related services for holidays and trips. The application was developed using Java for the frontend and MySQL for the backend, allowing for efficient data storage and retrieval.
